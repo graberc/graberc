@@ -20,15 +20,15 @@ I'm a **Product Leader** who codes, designs, and ships. Currently prototyping [D
 
 ### 🚀 Recent Wins
 
-**🔥 Tripled Revenue of our product recomendation system** at Rakuten (Collective Voice) using AI-powered personalization  
+**🔥 Tripled Revenue** at Rakuten using AI-powered personalization  
 Built ML systems that analyzed creator social feeds (Instagram/TikTok) to deliver product recommendations that beat baseline performance by 3x in 90 days.
+
+**⚡ 0→1 Payment Revolution** at Cigna Healthcare  
+Launched the first direct physician payment platform, transforming how doctors receive reimbursements from paper checks to real-time digital payments – reducing payment cycles from 30+ days to same-day processing.
 
 **📱 Mobile-First Transformation**  
 Led Rakuten's creator tools to 60% mobile usage (from 47%) while growing mobile revenue 13% without cannibalizing desktop performance.
 
-
-**⚡ 0→1 Payment Revolution at Cigna Healthcare**
-Launched the first direct physician payment platform, transforming how doctors receive reimbursements from paper checks to real-time digital payments – reducing payment cycles from 30+ days to same-day processing.
 ---
 
 ### 🛠️ Tech Stack
@@ -61,13 +61,13 @@ PostgreSQL  RLS        APIs       Database Design
 
 ### 💼 Experience Snapshot
 
-**🎮 Group/Lead Product Manager** @ Rakuten (Collective Voice)  
+**🎮 Group Product Manager** @ Rakuten (Collective Voice)  
 *Creator monetization stack serving 4,000+ creators*
 
 **🏥 Group Product Manager** @ Cigna Healthcare  
 *Digital tools for 900K+ members across claims, billing, pharmacy*
 
-**🤖 AI Product Leader ** @ IBM (Dish Network)  
+**🤖 AI Product Contractor** @ IBM (Dish Network)  
 *LLM-powered operations tools with 80%+ accuracy improvements*
 
 ---
@@ -125,19 +125,20 @@ Built Tapto.Shop from 0→1, becoming top acquisition driver
 **💼 Professional:** [LinkedIn](https://www.linkedin.com/in/christophergraber/)  
 **🎨 Portfolio:** [christophergraber.me](https://christophergraber.me/)  
 **📧 Email:** Available on request  
-**📱 Phone:** Available on request  
+**📱 Phone:** (303) 482-6166  
 
 ---
 
 ### 🎵 Fun Facts
 
-
+- 🎲 Run Denver Board Gamers, a community of 4,000+ strategists building relationships around fun strategic games
 - 🏔️ Based in Colorado – hiking inspires my best product ideas
-- ☕ Coffee-powered vibe coding sessions are my specialty
--  🎲 Run Denver Board Gamers, a community of 4,000+ strategists building relationships around fun strategic games
+- 🌱 Community volunteer with [The GrowHaus](https://www.thegrowhaus.org/) supporting food equity
+- ☕ Coffee-powered coding sessions are my specialty
+
 ---
 
-*"The future belongs to those who can turn AI capabilities into human-centered products that solve problems."*
+*"The future belongs to those who can turn AI capabilities into human-centered products that actually solve problems."*
 
 ---
 
