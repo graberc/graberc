@@ -88,7 +88,7 @@ Tilt-sensitive glass cards with parallax effects
 Built Tapto.Shop from 0→1, becoming top acquisition driver  
 *Full-stack development, API integrations, growth optimization*
 
-#### [Denver Board Gamers site] (https://game-night-lookup-67.lovable.app/) 
+#### Denver Board Gamers site (https://game-night-lookup-67.lovable.app/) 
 As the administrator of one of Denver's largest board game communities, I've been building the ultimate local board game site.  Currently it features direct integration with Board Game Geek API, which is just the first step.
 *Full-stack development, API integrations, growth optimization*
 
